@@ -1,0 +1,9 @@
+# Entorno virtual
+proyectoIAEnv/
+# Archivos temporales
+_pycache_/
+*.pyc
+# Configuración de VSCode
+.vscode/
+# Archivos de notebook checkpoint
+.ipynb_checkpoints/
