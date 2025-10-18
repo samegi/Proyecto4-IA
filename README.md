@@ -3,3 +3,7 @@ Objetivo 1: Clasificar la posibilidad de que un jugador de futbol se lesione la 
 Objetivo 2: Clasificar la posicion de los jugadores dependiendo de las caracteristicas fisicas (edad, altura, peso y BMI)
 
 Esto es util para los jugadores de futbol ya que permite entender que variables influyen en la prevencion de lesiones
+
+Se eligierón dos medidas de rendimiento:
+- Recall: Ya que prioriza detectar todos los jugadores con riesgo real (minimizar falsos negativos).
+- Precisión: Prioriza predecir correctamente la posición de cada jugador (minimizar falsos positivos).
